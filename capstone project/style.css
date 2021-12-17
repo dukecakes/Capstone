@@ -1,0 +1,116 @@
+.title_box{
+    background-color: maroon;
+    width: 100%;
+    height: max-content;
+}
+
+.title{
+    text-align: left;
+    margin-left: 30px;
+    color: azure;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+
+.main_content{
+    background-color: transparent;
+    width: 60%;
+    height: max-content;
+}
+
+.main_heading{
+    text-align: left;
+    margin-left: 30px;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+
+.main_text{
+    text-align: left;
+    margin-left: 30px;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.images_right{
+    width: 10%;
+}
+
+.images{
+    max-width: 300px;
+    height: 150px;
+}
+
+.bottom_menu{
+    background-color: maroon;
+    width: 100%;
+    height: max-content;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    height: max-content;
+}
+
+.address,.Navigation_links,.Menu_paragraph{
+    color: azure;
+    display:flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: maroon;
+}
+
+.Para{
+    max-width: 350px;
+}
+
+.navlinks{
+    text-decoration: none;
+    color: azure;
+}
+
+.navlinks:hover{
+    color: yellow;
+}
+
+.form{
+    font-size: 20px;
+    height: 650px;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form_input,.form_label{
+    width: 200px;
+    height: 30px;
+    margin: 10px 10px;
+}
+
+.submit{
+    background-color: midnightblue;
+    color: azure;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.formpage{
+    width: 100%;
+}
+
+.formpara{
+    width: 60%;
+}
